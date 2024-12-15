@@ -59,6 +59,6 @@ body {
 
 .container .qr-code {
     width: 100%;
-    border-radius: 1em;
+    border-radius: 0.75em;
 }
 
